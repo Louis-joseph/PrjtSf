@@ -6,7 +6,7 @@ C'est un dashboard d'achat de matériel
 
 ### Pré-requis
 
-- PHP
+- PHP 7.4
 - Composer
 - Symfony CLI
 - Docker
