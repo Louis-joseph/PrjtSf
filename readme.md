@@ -1,6 +1,6 @@
 # PrjtSf
 
-C'est un dashboard d'achat de matériel 
+C'est un dashboard d'achat de matériel📊
 
 ## Environnement de développement
 
