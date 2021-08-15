@@ -2,6 +2,9 @@
 
 C'est un dashboard d'achat de matériel📊
 
+Ce tableau de bord permet de suivre le matériel acheté. Il devra être sécurisé par un
+système de login.
+
 ## Environnement de développement
 
 ### Pré-requis
